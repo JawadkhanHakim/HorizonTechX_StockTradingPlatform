@@ -1,0 +1,8 @@
+Transaction History for Jawad
+
+BUY  TCS    Qty:5    Price:Rs.3800.00 Total:Rs.19000.00
+BUY  TCS    Qty:5    Price:Rs.3800.00 Total:Rs.19000.00
+BUY  TCS    Qty:5    Price:Rs.3800.00 Total:Rs.19000.00
+SELL TCS    Qty:15   Price:Rs.3800.00 Total:Rs.57000.00
+
+Final Balance: Rs.100000.00
